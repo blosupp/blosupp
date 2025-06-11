@@ -20,7 +20,8 @@
 -  REST APIs, CLI tools  
 -  Automation, Web Interfaces, Telegram Bot API  
 -  Basic OpenCV & AI experimentation  
-
+-  Rust for systems and CLI tooling
+  
 ---
 
 ###  Projects
@@ -46,7 +47,7 @@
 
 ### 🔧 Tools & Icons
 
-<img src="https://skillicons.dev/icons?i=python,flask,docker,git,linux,postgresql,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=python,flask,docker,git,linux,ubuntu,postgresql,rust,vscode,bash" />
 
 ---
 
